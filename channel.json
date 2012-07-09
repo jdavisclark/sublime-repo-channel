@@ -4,8 +4,7 @@
 		"https://github.com/stylishmedia/SublimeText-Tabright",
 		"https://github.com/geoffgarside/TextMate-Themes"
 	],
-	"package_name_map": {	
-		"SublimeText-Tabright": "Tabright",
+	"package_name_map": {			
 		"TextMate-Themes": "TextMate Themes"
 	}
 }
