@@ -1,7 +1,6 @@
 {
 	"schema_version": "1.2",
-	"repositories": [
-		"https://github.com/stylishmedia/SublimeText-Tabright",
+	"repositories": [		
 		"https://github.com/geoffgarside/TextMate-Themes"
 	],
 	"package_name_map": {			
